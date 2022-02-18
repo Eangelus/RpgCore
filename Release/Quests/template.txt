@@ -1,0 +1,6 @@
+question
+nr of ans
+ans 1
+ans 2
+ansn
+correte ans
